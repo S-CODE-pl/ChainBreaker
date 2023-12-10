@@ -1,7 +1,7 @@
 # ChainBreaker
 The Ultimate Mobile (Android/IOS) Display and Configuration Tool for Bafang E-Bike motors.
 
-# Features
+## Features
 
  - USB connection via standard Bafang programming cable (Android only)
  - Wireless Bluetooth connection via adapter
@@ -14,9 +14,15 @@ The Ultimate Mobile (Android/IOS) Display and Configuration Tool for Bafang E-Bi
 
 ## Supported motors
 
--   BBS01 ✅
--   BBS01B ✅
--   BBS02 ✅
--   BBS02B ✅
--   BBSHD ✅
--   All hub motors from Bafang ✅
+-   BBS01 
+-   BBS01B 
+-   BBS02 
+-   BBS02B 
+-   BBSHD 
+-   All hub motors from Bafang 
+
+## Have a idea to new great feature?
+Use Discussions tab.
+
+## Need modded up to 4500W BBSHD controller?
+Contact me.
