@@ -23,6 +23,9 @@ The Ultimate Mobile (Android/IOS) Display and Configuration Tool for Bafang E-Bi
 -   BBSHD 
 -   All hub motors from Bafang 
 
+## Manual
+https://github.com/S-CODE-pl/ChainBreaker/wiki
+
 ## Have a idea to new great feature?
 Use Discussions tab.
 
