@@ -11,7 +11,7 @@ The Ultimate Mobile (Android/IOS) Display and Configuration Tool for Bafang E-Bi
  - Firmware settings editor (programming tool)
  - Standard/Sport/Limited modes support
  - Support for modded controlers - shunt mods and voltage mods
- - Support for custom Bafang firmware made by Daniel Nilsson https://github.com/danielnilsson9/bbs-fw
+ - Support for custom Bafang firmware made by Daniel Nilsson [https://github.com/danielnilsson9/bbs-fw](https://github.com/danielnilsson9/bbs-fw)
  - Security enhancement - disable motor when your Phone is not connected
 
 ## Supported motors
@@ -24,7 +24,7 @@ The Ultimate Mobile (Android/IOS) Display and Configuration Tool for Bafang E-Bi
 -   All hub motors from Bafang 
 
 ## Manual
-https://github.com/S-CODE-pl/ChainBreaker/wiki
+[https://github.com/S-CODE-pl/ChainBreaker/wiki](https://github.com/S-CODE-pl/ChainBreaker/wiki)
 
 ## Have a idea to new great feature?
 Use Discussions tab.
