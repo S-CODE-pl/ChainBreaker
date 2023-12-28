@@ -27,7 +27,7 @@ The Ultimate Mobile (Android/IOS) Display and Configuration Tool for Bafang E-Bi
 [https://github.com/S-CODE-pl/ChainBreaker/wiki](https://github.com/S-CODE-pl/ChainBreaker/wiki)
 
 ## Have a idea to new great feature?
-Use Discussions tab.
+Use [Discussions tab](https://github.com/S-CODE-pl/ChainBreaker/discussions).
 
 ## Need modded up to 4500W BBSHD controller?
-Contact me.
+Contact us
