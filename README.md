@@ -1,11 +1,12 @@
 # ChainBreaker
 The Ultimate Mobile (Android/IOS) Display and Configuration Tool for Bafang E-Bike motors.
+https://play.google.com/store/apps/details?id=s_code.pl.chainbreaker
 
 ## Features
 
  - USB connection via standard Bafang programming cable (Android only)
- - Wireless Bluetooth connection via adapter
- - Additional assist control via physical buttons on bike handlebar - via extended Wireless Bluetooth adapter
+ - Wireless Bluetooth connection via extended Wireless Bluetooth custom adapter - how to buy adapter or build your own will be documented soon
+ - Additional assist control via physical buttons on bike handlebar - via extended Wireless Bluetooth custom adapter
  - Multiple types of dashboards to see realtime detailed motor/ride data - even current motor temperature! (custom firmware only)
  - Ride recorder with detailed graphs and map view
  - Firmware settings editor (programming tool)
